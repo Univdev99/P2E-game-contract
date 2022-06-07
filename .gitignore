@@ -1,0 +1,12 @@
+node_modules
+
+#truffle files
+cache
+artifacts
+build
+
+.env
+
+
+#
+package-lock.json
